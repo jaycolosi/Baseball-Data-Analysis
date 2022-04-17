@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------
+FILE NAME: MASTER.CSV
+
+playerID       A unique code asssigned to each player.
+birthYear      Year player was born
+birthMonth     Month player was born
+birthDay       Day player was born
+birthCountry   Country where player was born 
+birthState     State where player was born
+birthCity      City where player was born 
+deathYear      Year player died
+deathMonth     Month player died
+deathDay       Day player died
+deathCountry   Country where player died
+deathState     State where player died
+deathCity      City where player died
+nameFirst      Player's first name 
+nameLast       Player's last name 
+nameGiven      Player's given name 
+weight         Player's weight in pounds
+height         Player's height in inches
+bats           Player's batting hand (left, right, or both)
+throws         Player's throwing hand (left or right)
+debut          Date that player made first major league appearance
+finalGame      Date that player made first major league appearance 
+retroID        ID used by retrosheet
+bbrefID        ID used by Baseball Reference website
+
+-------------------------------------------------------------------------
+FILE NAME: BATTING.CSV
+
+playerID       Player ID code
+yearID         Year 
+stint          player's stint (order of appearances within a season)
+teamID         Team
+lgID           League
+G              Games
+AB             At Bats 
+R              Runs 
+H              Hits 
+2B             Doubles 
+3B             Triples 
+HR             Homeruns 
+RBI            Runs Batted In 
+SB             Stolen Bases 
+CS             Caught Stealing 
+BB             Base on Balls 
+SO             Strikeouts 
+IBB            Intentional walks 
+HBP            Hit by pitch
+SH             Sacrifice hits 
+SF             Sacrifice flies 
+GIDP           Grounded into double plays
